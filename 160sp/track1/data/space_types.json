@@ -1,0 +1,23 @@
+{
+  "living_room": {
+    "search_terms": [
+      "living room interior",
+      "modern lounge interior"
+    ],
+    "why": "Furniture layout and lighting"
+  },
+
+  "bedroom": {
+    "search_terms": [
+      "bedroom interior"
+    ],
+    "why": "Warmth and enclosure"
+  },
+
+  "kitchen": {
+    "search_terms": [
+      "kitchen interior"
+    ],
+    "why": "Layout and materials"
+  }
+}
